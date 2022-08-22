@@ -2,7 +2,7 @@ Hi, I’m @loizvla.
 
 MSc «Informatics and Computational Biomedicine», University of Thessaly, Department of Informatics with Applications in Biomedicine and the Department of Informatics.
 
-Degree in Computer Science and Telecommunications Engineering 
+Degree in Computer Science and Telecommunications Engineering (former ATEI Larissa)
 
 I’m interested in Bioinformatics, Data science, python , R, linux.
 
