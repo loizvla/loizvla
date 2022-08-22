@@ -4,7 +4,7 @@ MSc «Informatics and Computational Biomedicine», University of Thessaly, Depar
 
 Degree in Computer Science and Telecommunications Engineering 
 
-I’m interested in Bioinformatics, Data science, python , R
+I’m interested in Bioinformatics, Data science, python , R, linux.
 
 Reach me: - loizvla@gmail.com
           - https://www.linkedin.com/in/loizos-vlasiadis-049158115/
